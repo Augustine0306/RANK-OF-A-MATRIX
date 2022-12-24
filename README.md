@@ -23,7 +23,7 @@ import numpy as np
 A=np.array([[1,2,3],[3,6,9]])
 result=np.linalg.matrix_rank(A)
 print(result)
-
+```
 ## Output:
 ![output](m.png)
 

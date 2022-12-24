@@ -11,7 +11,8 @@ Import numpy as np.
 
 Assign in np.array() in rank of matrix
 
-### Step 3: Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
+### Step 3:
+ Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 ### Step 4: 
 Print the value and end the program
 ## Program:
